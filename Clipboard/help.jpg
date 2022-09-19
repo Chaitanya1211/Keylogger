@@ -1,0 +1,6 @@
+::t::2022-08-11 19:50:09.829332
+In the first test case, there are only two ways to climb the stairs, i.e. {1,1} and {2}.
+
+In the second test case, there are three ways to climb the stairs i.e. {1,1,1} , {1,2} and {2,1}.
+::t::2022-08-11 19:50:24.005214
+There are n stairs, a person standing at the bottom wants to reach the top. The person can climb either 1 stair or 2 stairs at a time.
